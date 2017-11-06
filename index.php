@@ -7,7 +7,7 @@
 
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="es">
     <head>
         <meta charset="UTF-8">
         <title>URL Google Maps API</title>
@@ -37,7 +37,7 @@
                     </div>
                     <div class="uk-margin uk-alert uk-alert-danger js-error" style='display: none;'></div>
                     <br id="space" />
-                    <input class="uk-input uk-form-width-medium uk-form-large uk-width-1-1" type="submit">
+                    <input class="uk-input uk-form-width-medium uk-form-large uk-width-1-1" type="submit" value="Enviar">
                 </form>
                 <br />
                 <div>
